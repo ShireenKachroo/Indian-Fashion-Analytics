@@ -97,6 +97,10 @@ Indian-Fashion-Analytics/<br>
 2. Perform deeper brand-wise and gender-specific analysis
 3. Extend analysis with time-based trends (if data available)
 
+## Dashboard Overview
+<img width="1290" height="743" alt="image" src="https://github.com/user-attachments/assets/525d9f38-b851-482b-b976-b2866af39d1d" />
+
+
 ## Author
 
 Shireen Kachroo<br>
