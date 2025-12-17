@@ -1,0 +1,1 @@
+this is a fashion analytics project for Indian dataset
