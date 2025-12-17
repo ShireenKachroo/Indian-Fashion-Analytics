@@ -32,13 +32,13 @@ The dataset represents Indian fashion products with prices in INR, making the an
 
 ## Tools & Technologies Used
 
-**Python** 3.12.4
-**Pandas** – data cleaning & manipulation
-**NumPy** – numerical operations
-**Matplotlib** – data visualization
-**VS Code** – development environment
-**Git & GitHub** – version control
-**Power BI** – dashboard creation
+**Python** 3.12.4<br>
+**Pandas** – data cleaning & manipulation<br>
+**NumPy** – numerical operations<br>
+**Matplotlib** – data visualization<br>
+**VS Code** – development environment<br>
+**Git & GitHub** – version control<br>
+**Power BI** – dashboard creation<br>
 
 ## Project Workflow
 
@@ -70,27 +70,27 @@ The dataset represents Indian fashion products with prices in INR, making the an
 	-Renamed columns for dashboard readability
 	-Exported a clean, dashboard-ready CSV file
 
-	Sample Insights:
-		- Women’s fashion products dominate the listings
-		- Majority of products fall into budget to mid-range pricing
-		- A small segment of luxury products significantly skews price distribution
-		- Certain colors and brands show strong dominance across listings
+	Sample Insights:<br>
+	1. Women’s fashion products dominate the listings <br>
+	2. Majority of products fall into budget to mid-range pricing<br>
+	3. A small segment of luxury products significantly skews price distribution<br>
+	4. Certain colors and brands show strong dominance across listings<br>
 
 ## Project Structure
-Indian-Fashion-Analytics/
-│
-├── data/
-│   └── myntra_fashion.csv
-│
-├── notebooks/
-│   └── fashion_analytics.ipynb
-│
-├── output/
-│   └── cleaned_fashion_data.csv
-│
-├── Myntra Fashion Analytics
-|
-|__README.md
+Indian-Fashion-Analytics/<br>
+│<br>
+├── data/<br>
+│   └── myntra_fashion.csv<br>
+│<br>
+├── notebooks/<br>
+│   └── fashion_analytics.ipynb<br>
+│<br>
+├── output/<br>
+│   └── cleaned_fashion_data.csv<br>
+│<br>
+├── Myntra Fashion Analytics<br>
+|<br>
+|__README.md<br>
 
 ## Future Work
 1. Add slicers for gender, price range, and brand
@@ -99,5 +99,5 @@ Indian-Fashion-Analytics/
 
 ## Author
 
-Shireen Kachroo
-Aspiring Data Analyst / Data Scientist
+Shireen Kachroo<br>
+Aspiring Data Analyst / Data Scientist<br>
